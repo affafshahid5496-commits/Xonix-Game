@@ -1,0 +1,3 @@
+/home/affaf_shahid/24i-2009_24i-2088_DS/CMakeFiles/xonix.dir
+/home/affaf_shahid/24i-2009_24i-2088_DS/CMakeFiles/edit_cache.dir
+/home/affaf_shahid/24i-2009_24i-2088_DS/CMakeFiles/rebuild_cache.dir
